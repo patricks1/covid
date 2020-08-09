@@ -1,0 +1,10 @@
+#ignore compiled files
+*.pyc
+
+#ignore backup files
+*.bak
+
+#ignore annoying files
+*~
+
+.ipynb_checkpoints
