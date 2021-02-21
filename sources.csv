@@ -1,4 +1,6 @@
 ca,https://data.ca.gov/dataset/590188d5-8545-4c93-a9a0-e230f0db7290/resource/926fd08f-cc91-4828-af38-bd45de97f8c3/download/statewide_cases.csv,newcountconfirmed,date,county
 ny,https://health.data.ny.gov/api/views/xdss-u53e/rows.csv?accessType=DOWNLOAD,New Positives,Test Date,County
-nc,https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/DailyCasesandDeathsMetrics/vudcsv/sessions/4E08981DB68D4FBC9E400A36BC5A5071-0:0/views/13567890650596151931_671940180619205164?underlying_table_id=Migrated%20Data&underlying_table_caption=Full%20Data,Cases by Report Date,Date,
+nc,https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/DailyCasesandDeathsMetrics/vudcsv/sessions/82806A59299D4056AC98366A45E12A11-0:0/views/13567890650596151931_671940180619205164?underlying_table_id=Migrated%20Data&underlying_table_caption=Full%20Data,Cases by Report Date,Date,
 fl,https://opendata.arcgis.com/datasets/37abda537d17458bae6677b8ab75fcb9_0.csv,Case_,ChartDate,
+ct,https://data.ct.gov/api/views/qfkt-uahj/rows.csv,Number of molecular positives,Date,County
+ct_state,https://data.ct.gov/api/views/rf3k-f8fg/rows.csv?accessType=DOWNLOAD,Total cases,Date,State
